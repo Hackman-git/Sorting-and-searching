@@ -1,4 +1,4 @@
-# CS401-project-sorting-and-searching
+# Sorting-and-searching
 
 The aim is to compare the complexity of Bubblesort, Mergesort and Heapsort algorithms. Also to compare the complexity of linear searching and binary searching.
 
